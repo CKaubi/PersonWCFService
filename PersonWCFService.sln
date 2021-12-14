@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonWCFService", "DataBaseProvaider\PersonWCFService.csproj", "{5F414B1C-8A35-4F75-83D9-F0E141080817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F414B1C-8A35-4F75-83D9-F0E141080817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F414B1C-8A35-4F75-83D9-F0E141080817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F414B1C-8A35-4F75-83D9-F0E141080817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F414B1C-8A35-4F75-83D9-F0E141080817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAABCE11-8978-421C-96EB-3F9A8E8A1E0E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/integrosandbox
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DataBaseProvaider\\PersonWCFService.csproj
+		SccProjectName1 = DataBaseProvaider
+		SccLocalPath1 = DataBaseProvaider
+	EndGlobalSection
+EndGlobal
